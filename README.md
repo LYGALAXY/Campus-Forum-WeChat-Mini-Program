@@ -63,8 +63,7 @@
 ---
 
 ### 管理后台（Web）
-
-基于 Art Design Pro 模版构建，路由分组如下：
+基于 <a href="https://github.com/Daymychen/art-design-pro">Art Design Pro</a> 模版构建
 
 | 模块 | 主要功能 |
 |------|----------|
