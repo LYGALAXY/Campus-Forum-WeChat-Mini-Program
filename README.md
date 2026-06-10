@@ -102,8 +102,6 @@
 | 文件存储 | 阿里云 OSS + Thumbnailator 缩略图 |
 | 其他 | Spring Validation、Actuator、AOP 审计日志 |
 
-主要业务模块：`auth`、`users`、`posts`、`forum`、`tasks` / `taskorders`、`messages`、`chat`、`points`、`pointsshop`、`resources`、`wallet`、`withdrawal`、`payment`、`checkin`、`feedback`、`admin`、`config` 等。
-
 ### 管理后台 `enw_server/`
 
 | 类别 | 技术 |
