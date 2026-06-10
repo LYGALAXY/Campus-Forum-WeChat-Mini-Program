@@ -66,7 +66,7 @@
 ---
 
 ### 管理后台（Web）
-基于 <a href="https://github.com/Daymychen/art-design-pro">Art Design Pro</a> 模版构建
+感觉写样式太麻烦了所以使用了<a href="https://github.com/Daymychen/art-design-pro">Art Design Pro</a> 模版构建
 
 | 模块 | 主要功能 |
 |------|----------|
